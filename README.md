@@ -1,2 +1,3 @@
 # ML2024Spring
-The
+The homework and labs in the lecture "Machine Learning".
+
